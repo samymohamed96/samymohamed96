@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @samy
+- 👀 I’m interested in machine learning and AI.
+- 🌱 I’m currently learning Python.
